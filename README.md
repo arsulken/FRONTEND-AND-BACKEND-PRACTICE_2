@@ -1,17 +1,10 @@
-# Практическое занятие №2 — Node.js + Express CRUD для товаров
-
-Реализовано API, предоставляющее CRUD операции для списка товаров.
-
-## Требования
-- Node.js 18+ (или 16+ тоже обычно ок)
-- npm
+Ссылка на сайт: https://arsulken.github.io/FRONTEND-AND-BACKEND-PRACTICE_2/
 
 ## Установка и запуск
 ```bash
 npm install
 npm start
 ```
-Сервер по умолчанию стартует на `http://localhost:3000`.
 
 ## Формат товара
 ```json
